@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### 哦，又一个精神小伙！！！
 <!--
 **charleseasy/charleseasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
